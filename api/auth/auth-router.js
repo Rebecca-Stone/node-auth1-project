@@ -1,3 +1,11 @@
+// Write the following endpoints.
+
+// - [ ] `[POST] /api/auth/register`
+// - [ ] `[POST] /api/auth/login`
+// - [ ] `[GET] /api/auth/logout`
+
+
+
 // Require `checkUsernameFree`, `checkUsernameExists` and `checkPasswordLength`
 // middleware functions from `auth-middleware.js`. You will need them here!
 

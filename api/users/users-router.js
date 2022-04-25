@@ -1,3 +1,9 @@
+// Write the following endpoints. 
+// - [ ] `[GET] /api/users`
+
+
+
+
 // Require the `restricted` middleware from `auth-middleware.js`. You will need it here!
 
 

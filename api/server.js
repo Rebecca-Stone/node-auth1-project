@@ -2,6 +2,10 @@ const express = require("express");
 const helmet = require("helmet");
 const cors = require("cors");
 
+// #### 2C - Endpoints
+
+// Authentication will be tracked using sessions and cookies. 
+
 /**
   Do what needs to be done to support sessions with the `express-session` package!
   To respect users' privacy, do NOT send them a cookie unless they log in.

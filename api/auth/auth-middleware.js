@@ -1,3 +1,12 @@
+// #### 2B - Middleware Functions
+
+// Write the following auth middlewares 
+
+// - [ ] `restricted`
+// - [ ] `checkUsernameFree`
+// - [ ] `checkPasswordLength`
+// - [ ] `checkUsernameExists`
+
 /*
   If the user does not have a session saved in the server
 

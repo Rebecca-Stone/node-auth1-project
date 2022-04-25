@@ -1,3 +1,12 @@
+// #### 2A - Database Access Functions
+
+// Write the following user access functions 
+
+// - [ ] `find`
+// - [ ] `findBy`
+// - [ ] `findById`
+// - [ ] `add`
+
 /**
   resolves to an ARRAY with all users, each user having { user_id, username }
  */
